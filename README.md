@@ -3,6 +3,7 @@
 I enjoy learning new technologies and creating solutions to interesting problems.
 Most of my daily commits are in Github Enterprise, but there are a couple of projects here that I work on from time to time:
 
+- [Service Level Calculator](https://slo.alexewerlof.com) an interactive UI to play with different SLI/SLO parameters and see how they impact alerting
 - [Micromustache](https://github.com/userpixel/micromustache) a super quick template engine with focus on security and simplicity
 - [jTy](https://github.com/userpixel/jty) the bare minimum API to write safer JavaScript applications that fail early instead of going about the wrong type assumptions
 - [am](https://github.com/userpixel/am) a simple and light way to run a main function asynchronously
@@ -11,4 +12,6 @@ Most of my daily commits are in Github Enterprise, but there are a couple of pro
 
 - [LinkedIn](https://www.linkedin.com/in/alexewerlof/)
 - [Twitter](https://twitter.com/alexewerlof)
+- [Newsletter](https://www.alexewerlof.com)
 - [blog (old)](https://alexewerlof.medium.com/)
+
